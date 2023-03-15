@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ircmaxell/random-lib": "^1.2",
+        "nesbot/carbon": "^2.66"
+    }
+}
